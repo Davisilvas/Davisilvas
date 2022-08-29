@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning: Python
 - 📫 How to reach me: morg.daviss@gmail.com
 - 📱  You can text me in: (24) 99328-7911
-- 😄 Pronouns: Ele/Dele
 
 ##
 
