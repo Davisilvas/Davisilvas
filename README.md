@@ -1,7 +1,7 @@
 ## Hey it's me! Davi Santos!
 
 - 🌱 I’m currently learning: Python
-- 📫 How to reach me: morg.daviss@gmail.com
+- 📫 How to reach me: contato@davisantos.dev.br || morg.daviss@gmail.com
 - 📱  You can text me in: (24) 99328-7911
 
 ##
