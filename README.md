@@ -1,6 +1,6 @@
 ## Hey it's me! Davi Santos!
 
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: C# / Python
 - 📫 How to reach me: contato@davisantos.dev.br || morg.daviss@gmail.com
 - 📱  You can text me in: (24) 99328-7911
 
